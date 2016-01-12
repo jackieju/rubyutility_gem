@@ -1,3 +1,7 @@
+def max_int
+    0xffffffff
+end
+
 def generate_password(length=6)  
   chars = 'abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ123456789'  
   password = ''  

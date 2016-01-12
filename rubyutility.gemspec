@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'rubyutility'
-  s.version     = '0.0.0'
+  s.version     = '0.0.2'
   s.date        = '2016-01-05'
   s.summary     = "A Ruby Utility library !"
   s.description = "A Ruby Utility library !"
